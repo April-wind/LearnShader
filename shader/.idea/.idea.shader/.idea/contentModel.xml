@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\HP\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HP\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_shader.1726336392.00" t="ExcludeRecursive" />
+    <e p="D:\unityworkplace\LearnShader\shader" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="RenderCubemapWizard.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="1" t="Include">
+            <e p="RanbowColour.cs" t="Include" />
+            <e p="Tutorial_Shader.shader" t="Include" />
+          </e>
+          <e p="10-2" t="Include">
+            <e p="11.shader" t="Include" />
+            <e p="GlassRefractionMat.shader" t="Include" />
+            <e p="Mirror.shader" t="Include" />
+          </e>
+          <e p="12-2" t="Include">
+            <e p="BrightnessSaturationAndContrast.cs" t="Include" />
+            <e p="BrightnessSaturationAndContrast.shader" t="Include" />
+            <e p="PostEffectsBase.cs" t="Include" />
+          </e>
+          <e p="12-3" t="Include">
+            <e p="EdgeDetection.cs" t="Include" />
+            <e p="EdgeDetection.shader" t="Include" />
+          </e>
+          <e p="12-4" t="Include">
+            <e p="GaussianBlur.cs" t="Include" />
+            <e p="GaussianBlur.shader" t="Include" />
+          </e>
+          <e p="2" t="Include">
+            <e p="Grey.shader" t="Include" />
+            <e p="GreyTest.cs" t="Include" />
+          </e>
+          <e p="3" t="Include">
+            <e p="My First Lighting Shader.shader" t="Include" />
+          </e>
+          <e p="AlphaBlend" t="Include">
+            <e p="AlphaBlendMat.shader" t="Include" />
+            <e p="AlphaBlendZwrite.shader" t="Include" />
+          </e>
+          <e p="NewSurfaceShader.shader" t="Include" />
+          <e p="Procedural Tex" t="Include">
+            <e p="ProceduralTextureGeneration.cs" t="Include" />
+          </e>
+          <e p="RimShader.shader" t="Include" />
+          <e p="Shadow" t="Include">
+            <e p="ShadowTest.shader" t="Include" />
+          </e>
+          <e p="TexMode" t="Include">
+            <e p="Normal Map In Tangent Space.shader" t="Include" />
+            <e p="Ramp Texture.shader" t="Include" />
+            <e p="Single Texture.shader" t="Include" />
+          </e>
+          <e p="TextureAnimations" t="Include">
+            <e p="Billboard.shader" t="Include" />
+            <e p="ImageSequenceAnimation.shader" t="Include" />
+            <e p="ScrollingBackground.shader" t="Include" />
+            <e p="Water.shader" t="Include" />
+          </e>
+        </e>
+        <e p="SetProperty-master" t="Include">
+          <e p="Editor" t="Include">
+            <e p="SetPropertyDrawer.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="SetPropertyAttribute.cs" t="Include" />
+            <e p="SetPropertyExample.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="shader.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
