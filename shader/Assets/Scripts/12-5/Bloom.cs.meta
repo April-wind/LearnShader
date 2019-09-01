@@ -1,11 +1,10 @@
 fileFormatVersion: 2
-guid: 74987fa5c2e7f504a9eb3cbf48a12fdf
+guid: bf18d74d4fa78e04c87541d892273b02
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - gaussianBlurShader: {fileID: 4800000, guid: 74d2ae73114dcd84cb1665f5e455feeb,
-      type: 3}
+  - bloomShader: {fileID: 4800000, guid: 17179b781580b6f4182a4c6b617837d3, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

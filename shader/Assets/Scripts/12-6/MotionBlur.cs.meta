@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 74987fa5c2e7f504a9eb3cbf48a12fdf
+guid: f7ec3a08cf701494d832c9a0d4d9c915
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - gaussianBlurShader: {fileID: 4800000, guid: 74d2ae73114dcd84cb1665f5e455feeb,
-      type: 3}
+  - motionBlurShader: {fileID: 4800000, guid: bd4259314b6974f4ca4030a968d1beac, type: 3}
+  - accumullationTexture: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

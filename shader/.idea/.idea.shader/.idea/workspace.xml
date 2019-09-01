@@ -13,10 +13,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-3/EdgeDetection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-6/MotionBlur.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-5/Bloom.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-2/BrightnessSaturationAndContrast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-2/BrightnessSaturationAndContrast.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-4/GaussianBlur.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-4/GaussianBlur.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-5/Bloom.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-6/MotionBlur.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/12-3/EdgeDetection.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -28,6 +32,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/12-3/EdgeDetection.shader" />
         <option value="$PROJECT_DIR$/Assets/Scripts/12-4/GaussianBlur.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/12-4/GaussianBlur.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/12-5/Bloom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/12-5/Bloom.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/12-6/MotionBlur.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/12-6/MotionBlur.shader" />
       </list>
     </option>
   </component>
@@ -85,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567232742730</updated>
       <workItem from="1567232758666" duration="14239000" />
+      <workItem from="1567319047581" duration="6620000" />
     </task>
     <servers />
   </component>
@@ -98,7 +107,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

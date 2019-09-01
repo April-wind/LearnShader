@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\HP\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -33,6 +33,14 @@
             <e p="GaussianBlur.cs" t="Include" />
             <e p="GaussianBlur.shader" t="Include" />
           </e>
+          <e p="12-5" t="Include">
+            <e p="Bloom.cs" t="Include" />
+            <e p="Bloom.shader" t="Include" />
+          </e>
+          <e p="12-6" t="Include">
+            <e p="MotionBlur.cs" t="Include" />
+            <e p="MotionBlur.shader" t="Include" />
+          </e>
           <e p="2" t="Include">
             <e p="Grey.shader" t="Include" />
             <e p="GreyTest.cs" t="Include" />
@@ -43,6 +51,10 @@
           <e p="AlphaBlend" t="Include">
             <e p="AlphaBlendMat.shader" t="Include" />
             <e p="AlphaBlendZwrite.shader" t="Include" />
+          </e>
+          <e p="Helpers" t="Include">
+            <e p="Rotating.cs" t="Include" />
+            <e p="Translating.cs" t="Include" />
           </e>
           <e p="NewSurfaceShader.shader" t="Include" />
           <e p="Procedural Tex" t="Include">
